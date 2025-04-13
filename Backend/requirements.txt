@@ -1,7 +1,11 @@
 langchain>=0.1.0
+langchain-community
+langchain-huggingface
 faiss-cpu
-openai
 huggingface-hub
 google-generativeai
 PyPDF2
 tqdm
+pypdf
+sentence-transformers
+python-dotenv
