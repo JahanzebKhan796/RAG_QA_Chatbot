@@ -6,11 +6,11 @@ This is a Retrieval-Augmented Generation (RAG) chatbot that allows users to uplo
 
 ## Features
 
-- 📄 Upload PDF and ask contextual questions
-- 🧠 Uses HuggingFace embeddings and FAISS for context retrieval
-- 🤖 Chat interface powered by Google Gemini
-- 🔁 Asynchronous session processing with status polling
-- 🧪 Backend can be tested independently with a sample PDF
+- Upload PDF and ask contextual questions
+- Uses HuggingFace embeddings and FAISS for context retrieval
+- Chat interface powered by Google Gemini
+- Asynchronous session processing with status polling
+- Backend can be tested independently with a sample PDF
 
 ---
 
